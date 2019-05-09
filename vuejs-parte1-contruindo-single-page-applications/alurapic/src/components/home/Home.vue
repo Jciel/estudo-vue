@@ -9,8 +9,20 @@
 
 
                 <meu-painel :titulo="foto.titulo">
+
                     <imagem-responsiva :url="foto.url" :tituli="foto.titulo"></imagem-responsiva>
+
+                    <meu-botao
+                        @botaoAtivado="remove(foto)"
+                        tipo="button"
+                        rotulo="REMOVER"
+                        :confirmacao="true"
+                        estilo="padrao">
+                    </meu-botao>
+
                 </meu-painel>
+
+
 
             </li>
         </ul>
@@ -22,12 +34,14 @@
 
     import Painel from '../shared/painel/Painel';
     import ImagemResponsiva from  '../shared/imagem-responsiva/ImagemResponsiva';
+    import Botao from '../shared/botao/Botao';
 
     export default {
 
         components: {
             'meu-painel': Painel,
-            'imagem-responsiva': ImagemResponsiva
+            'imagem-responsiva': ImagemResponsiva,
+            'meu-botao': Botao
         },
 
         data() {
@@ -56,6 +70,16 @@
                 .then(res => res.json())
                 .then(fotos => this.fotos = fotos,
                     err => console.log(err));
+        },
+
+        methods: {
+
+            remove(foto) {
+
+                alert("remover a foto" + foto.titulo);
+
+            }
+
         }
 
     }
