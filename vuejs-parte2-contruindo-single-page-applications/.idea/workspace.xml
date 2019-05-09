@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64b6d248-b14d-4d06-ae30-84a91116df1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api" beforeDir="false" afterPath="$PROJECT_DIR$/api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuejs-parte1-contruindo-single-page-applications/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vuejs-parte1-contruindo-single-page-applications/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuejs-parte1-contruindo-single-page-applications/api" beforeDir="false" afterPath="$PROJECT_DIR$/../vuejs-parte1-contruindo-single-page-applications/api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/app/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/app/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/app/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/app/routes/index.js" afterDir="false" />
@@ -46,29 +46,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.me">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alurapic/src/components/home/Home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="140">
+              <caret line="10" column="76" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.vue">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alurapic/src/components/shared/imagem-responsiva/ImagemResponsiva.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alurapic/src/directives/Transform.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -79,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -90,8 +91,11 @@
       <list>
         <option value="$PROJECT_DIR$/README.me" />
         <option value="$PROJECT_DIR$/alurapic/src/components/shared/menu/Menu.vue" />
-        <option value="$PROJECT_DIR$/alurapic/src/components/home/Home.vue" />
         <option value="$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.vue" />
+        <option value="$PROJECT_DIR$/alurapic/src/main.js" />
+        <option value="$PROJECT_DIR$/alurapic/src/components/shared/imagem-responsiva/ImagemResponsiva.vue" />
+        <option value="$PROJECT_DIR$/alurapic/src/directives/Transform.js" />
+        <option value="$PROJECT_DIR$/alurapic/src/components/home/Home.vue" />
       </list>
     </option>
   </component>
@@ -107,53 +111,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
+              <item name="vuejs-parte2-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs-parte2-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
+              <item name="vuejs-parte2-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs-parte2-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
               <item name="alurapic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
-              <item name="alurapic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
+              <item name="vuejs-parte2-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuejs-parte2-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
               <item name="alurapic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs-parte1-contruindo-single-page-applications" type="462c0819:PsiDirectoryNode" />
-              <item name="alurapic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vuejs-parte2-contruindo-single-page-applications" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,19 +170,21 @@
       <workItem from="1557348225869" duration="12000" />
       <workItem from="1557348284611" duration="1088000" />
       <workItem from="1557400909370" duration="10908000" />
-      <workItem from="1557430217273" duration="423000" />
+      <workItem from="1557430637976" duration="2517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12431000" />
+    <option name="totallyTimeSpent" value="14525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19838056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19838056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -202,7 +194,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Elm Compiler" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44049734" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44049734" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -232,10 +224,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alurapic/src/components/home/Home.vue">
+    <entry file="file://$PROJECT_DIR$/alurapic/node_modules/vue-resource/types/vue_resource.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurapic/node_modules/vue-router/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -243,6 +245,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurapic/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurapic/src/components/shared/imagem-responsiva/ImagemResponsiva.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurapic/src/directives/Transform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurapic/src/components/home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="76" />
         </state>
       </provider>
     </entry>
